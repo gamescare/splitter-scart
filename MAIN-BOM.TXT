@@ -1,0 +1,50 @@
+Partlist exported from C:/Users/eduar/Documents/eagle/SCART SPLITTER/SCART - 2X SCART/MAIN.sch at 29/05/2019 15:09
+
+Part Value          Device            Package      Description                                       MF MPN OC_FARNELL OC_NEWARK PROD_ID    SF_ID     VALUE   
+C1   100nF          C-EU050-025X075   C050-025X075 CAPACITOR, European symbol                                                                                 
+C2   100nF          C-EU050-025X075   C050-025X075 CAPACITOR, European symbol                                                                                 
+C3   100nF          C-EU050-025X075   C050-025X075 CAPACITOR, European symbol                                                                                 
+C4   100nF          C-EU050-025X075   C050-025X075 CAPACITOR, European symbol                                                                                 
+C5   330u           CPOL-USE3.5-8     E3,5-8       POLARIZED CAPACITOR, American symbol                                                                       
+C6   330u           CPOL-USE3.5-8     E3,5-8       POLARIZED CAPACITOR, American symbol                                                                       
+C7   330u           CPOL-USE3.5-8     E3,5-8       POLARIZED CAPACITOR, American symbol                                                                       
+C8   330u           CPOL-USE3.5-8     E3,5-8       POLARIZED CAPACITOR, American symbol                                                                       
+C9   330u           CPOL-USE3.5-8     E3,5-8       POLARIZED CAPACITOR, American symbol                                                                       
+C10  330u           CPOL-USE3.5-8     E3,5-8       POLARIZED CAPACITOR, American symbol                                                                       
+C11  330u           CPOL-USE3.5-8     E3,5-8       POLARIZED CAPACITOR, American symbol                                                                       
+C12  330u           CPOL-USE3.5-8     E3,5-8       POLARIZED CAPACITOR, American symbol                                                                       
+C13  100nF          C-EU050-025X075   C050-025X075 CAPACITOR, European symbol                                                                                 
+C14  47uF           CPOL-USE3.5-8     E3,5-8       POLARIZED CAPACITOR, American symbol                                                                       
+FB1  600O/0.5A      FERRITE_BEAD-0603 0603         Ferrite Bead (blocks, cores, rings, chokes, etc.)                             NDUC-13805           30O/1.8A
+FB2  600O/0.5A      FERRITE_BEAD-0603 0603         Ferrite Bead (blocks, cores, rings, chokes, etc.)                             NDUC-13805           30O/1.8A
+FB3  600O/0.5A      FERRITE_BEAD-0603 0603         Ferrite Bead (blocks, cores, rings, chokes, etc.)                             NDUC-13805           30O/1.8A
+FB4  600O/0.5A      FERRITE_BEAD-0603 0603         Ferrite Bead (blocks, cores, rings, chokes, etc.)                             NDUC-13805           30O/1.8A
+FB5  600O/0.5A      FERRITE_BEAD-0603 0603         Ferrite Bead (blocks, cores, rings, chokes, etc.)                             NDUC-13805           30O/1.8A
+FB6  600O/0.5A      FERRITE_BEAD-0603 0603         Ferrite Bead (blocks, cores, rings, chokes, etc.)                             NDUC-13805           30O/1.8A
+FB7  600O/0.5A      FERRITE_BEAD-0603 0603         Ferrite Bead (blocks, cores, rings, chokes, etc.)                             NDUC-13805           30O/1.8A
+FB8  600O/0.5A      FERRITE_BEAD-0603 0603         Ferrite Bead (blocks, cores, rings, chokes, etc.)                             NDUC-13805           30O/1.8A
+J1   USB_MINI-B_SMT USB_MINI-B_SMT    USB-MINIB    USB type Mini-B Connector                                                     CONN-08193 PRT-00587         
+LED1                LED5MM            LED5MM       LED                                                                                                        
+R1   75R            R-US_0204/7       0204/7       RESISTOR, American symbol                                                                                  
+R2   75R            R-US_0204/7       0204/7       RESISTOR, American symbol                                                                                  
+R3   75R            R-US_0204/7       0204/7       RESISTOR, American symbol                                                                                  
+R4   75R            R-US_0204/7       0204/7       RESISTOR, American symbol                                                                                  
+R5   75R            R-US_0204/7       0204/7       RESISTOR, American symbol                                                                                  
+R6   75R            R-US_0204/7       0204/7       RESISTOR, American symbol                                                                                  
+R7   75R            R-US_0204/7       0204/7       RESISTOR, American symbol                                                                                  
+R8   75R            R-US_0204/7       0204/7       RESISTOR, American symbol                                                                                  
+R9   180R           R-US_0204/7       0204/7       RESISTOR, American symbol                                                                                  
+R10  180R           R-US_0204/7       0204/7       RESISTOR, American symbol                                                                                  
+R11  330R           R-US_0204/7       0204/7       RESISTOR, American symbol                                                                                  
+R12  5.6M           R-US_0204/7       0204/7       RESISTOR, American symbol                                                                                  
+R13  75R            R-US_0204/7       0204/7       RESISTOR, American symbol                                                                                  
+R14  75R            R-US_0204/7       0204/7       RESISTOR, American symbol                                                                                  
+R15  75R            R-US_0204/7       0204/7       RESISTOR, American symbol                                                                                  
+R16  75R            R-US_0204/7       0204/7       RESISTOR, American symbol                                                                                  
+R17  5.6M           R-US_0204/7       0204/7       RESISTOR, American symbol                                                                                  
+R18  5.6M           R-US_0204/7       0204/7       RESISTOR, American symbol                                                                                  
+R19  5.6M           R-US_0204/7       0204/7       RESISTOR, American symbol                                                                                  
+U$1  THS7374        THS7374           TSSOP-14                                                                                                                
+X1   SCART-F        SCART-F           SCART-F      TV SCART CONNECTOR                                       unknown    unknown                                
+X3   SCART-F        SCART-F           SCART-F      TV SCART CONNECTOR                                       unknown    unknown                                
+X4   SCART-F        SCART-F           SCART-F      TV SCART CONNECTOR                                       unknown    unknown                                
